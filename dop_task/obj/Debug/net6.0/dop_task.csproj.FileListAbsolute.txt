@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.AssemblyInfo.cs
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\bin\Debug\net6.0\dop_task.exe
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\bin\Debug\net6.0\dop_task.deps.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\bin\Debug\net6.0\dop_task.runtimeconfig.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\bin\Debug\net6.0\dop_task.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\bin\Debug\net6.0\dop_task.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\refint\dop_task.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\dop_task.genruntimeconfig.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\dop_task\obj\Debug\net6.0\ref\dop_task.dll
