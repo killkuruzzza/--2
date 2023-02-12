@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professional\\Desktop\\gb\\sem_2\\12\\12.csproj": {}
+    "C:\\Users\\Professional\\Desktop\\работа\\gb\\с#\\sem_2\\12\\12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professional\\Desktop\\gb\\sem_2\\12\\12.csproj": {
+    "C:\\Users\\Professional\\Desktop\\работа\\gb\\с#\\sem_2\\12\\12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\gb\\sem_2\\12\\12.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\работа\\gb\\с#\\sem_2\\12\\12.csproj",
         "projectName": "12",
-        "projectPath": "C:\\Users\\Professional\\Desktop\\gb\\sem_2\\12\\12.csproj",
+        "projectPath": "C:\\Users\\Professional\\Desktop\\работа\\gb\\с#\\sem_2\\12\\12.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Desktop\\gb\\sem_2\\12\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Desktop\\работа\\gb\\с#\\sem_2\\12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"

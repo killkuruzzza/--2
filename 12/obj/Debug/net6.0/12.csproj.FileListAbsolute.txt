@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\bin\Debug\net6.0\12.exe
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\bin\Debug\net6.0\12.deps.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\bin\Debug\net6.0\12.runtimeconfig.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\bin\Debug\net6.0\12.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\bin\Debug\net6.0\12.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.AssemblyInfo.cs
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\refint\12.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\12.genruntimeconfig.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_2\12\obj\Debug\net6.0\ref\12.dll
